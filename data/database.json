@@ -74,6 +74,28 @@
       "balance": 75369,
       "createdAt": "2020-02-11T21:26:46.510Z",
       "modifiedAt": "2020-05-21T15:15:33.944Z"
+    },
+    {
+      "id": "5Ay2LOhyp",
+      "uuid": "487c6966-c6e2-4b01-89d3-aa3ac6a9aae5",
+      "firstName": "Guide",
+      "lastName": "Fari",
+      "username": "johndoe",
+      "password": "$2a$10$ezXglESEXEZN5uyajQusY./EkCQTIUM.qs9ULy6kBBRyOGgY5NZJK",
+      "balance": 0,
+      "createdAt": "2021-09-13T08:51:14.875Z",
+      "modifiedAt": "2021-09-13T08:51:14.875Z"
+    },
+    {
+      "id": "8N1234noc",
+      "uuid": "9a549242-b288-40b4-ad68-91e33bdc4228",
+      "firstName": "Guide",
+      "lastName": "Fari",
+      "username": "admin@example.com",
+      "password": "$2a$10$4TEfL0/FA.zyeOiat65QhOpUWA.AJFOe/xKJQphMnTlk2P3RxVJfi",
+      "balance": 0,
+      "createdAt": "2021-09-13T08:51:48.941Z",
+      "modifiedAt": "2021-09-13T08:51:48.941Z"
     }
   ],
   "contacts": [
@@ -253,6 +275,17 @@
       "isDeleted": false,
       "createdAt": "2019-09-30T14:20:07.043Z",
       "modifiedAt": "2020-05-21T22:40:28.910Z"
+    },
+    {
+      "id": "YaabdxbFR",
+      "uuid": "7c48a6c0-eaac-41c2-8822-0866a075a795",
+      "userId": "8N1234noc",
+      "bankName": "Wise.com",
+      "accountNumber": "65988979879",
+      "routingNumber": "987989879",
+      "isDeleted": false,
+      "createdAt": "2021-09-13T08:52:00.717Z",
+      "modifiedAt": "2021-09-13T08:52:00.717Z"
     }
   ],
   "transactions": [
