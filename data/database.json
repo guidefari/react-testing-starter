@@ -96,6 +96,17 @@
       "balance": 0,
       "createdAt": "2021-09-13T08:51:48.941Z",
       "modifiedAt": "2021-09-13T08:51:48.941Z"
+    },
+    {
+      "id": "bxxLawquQ",
+      "uuid": "cf8869c2-6a29-481f-aed8-f1e45f4cff28",
+      "firstName": "Guide",
+      "lastName": "Fari",
+      "username": "dude@example.com",
+      "password": "$2a$10$WATLPdyiuLVyuiVjNa7TZeVaHr09nK3QqXVIbn02Xulsu2AM/Nkz6",
+      "balance": 0,
+      "createdAt": "2021-09-13T10:08:54.777Z",
+      "modifiedAt": "2021-09-13T10:08:54.777Z"
     }
   ],
   "contacts": [
@@ -286,6 +297,17 @@
       "isDeleted": false,
       "createdAt": "2021-09-13T08:52:00.717Z",
       "modifiedAt": "2021-09-13T08:52:00.717Z"
+    },
+    {
+      "id": "ejA5xkF21",
+      "uuid": "72f66a60-4c9e-479a-a543-3e96e122eb80",
+      "userId": "bxxLawquQ",
+      "bankName": "Wise.com",
+      "accountNumber": "65988979879",
+      "routingNumber": "987989879",
+      "isDeleted": false,
+      "createdAt": "2021-09-13T10:23:20.553Z",
+      "modifiedAt": "2021-09-13T10:23:20.553Z"
     }
   ],
   "transactions": [
